@@ -1,0 +1,14 @@
+@font-face {
+    font-family: Crash;
+    src: url(/fonts/Crash_Bandicoot/Crash.ttf);
+}
+@font-face {
+    font-family: Text_Crash;
+    src: url(/fonts/Crash_Bandicoot/Text_Crash.otf);
+}
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    list-style: none;
+}
